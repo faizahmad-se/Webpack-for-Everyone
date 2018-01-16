@@ -1,4 +1,2 @@
-import notification from './Notification';
+require('./main.css');
 
-notification.log('here we go');
-notification.announce('here we go as an alert');
